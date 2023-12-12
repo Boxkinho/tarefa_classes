@@ -4,6 +4,8 @@ public class PrimeiraEscola {
 
 	public static void main(String args[]) {
 		
+//Tarefa modulo 7
+		
 		Aluno aluno = new Aluno();
 		aluno.cadastrarEndereco("Rua Projetada S/N.");
 		aluno.setCodigo(01);
